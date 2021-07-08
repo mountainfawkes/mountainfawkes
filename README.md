@@ -46,8 +46,8 @@
 
 <p>
   <!-- HTML5 --> <img alt="HTML5" width="93px" height="28px" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <!-- CSS --> <img alt="CSS" width="93px" height="28px" src="https://img.shields.io/badge/CSS-FA6CF2?&style=for-the-badge&logo=css3&logoColor=white" />
-  <!-- SASS --> <img alt="SASS" width="93px" height="28px" src="https://img.shields.io/badge/Sass-FA6CF2?style=for-the-badge&logo=sass&logoColor=white" />
+  <!-- CSS --> <img alt="CSS" width="93px" height="28px" src="https://img.shields.io/badge/CSS-E772C5?&style=for-the-badge&logo=css3&logoColor=white" />
+  <!-- SASS --> <img alt="SASS" width="93px" height="28px" src="https://img.shields.io/badge/Sass-E772C5?style=for-the-badge&logo=sass&logoColor=white" />
   <!-- JavaScript --> <img alt="JavaScript" width="93px" height="28px" src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
   <!-- jQuery --> <img alt="jQuery" width="93px" height="28px" src="https://img.shields.io/badge/jQuery-F7DF1E?style=for-the-badge&logo=jquery&logoColor=white" />
   <!-- React --> <img alt="React" width="93px" height="28px" src="https://img.shields.io/badge/React-0A1831?style=for-the-badge&logo=react&logoColor=61DAFB" />
@@ -83,6 +83,6 @@
     Light blue (auth relatives): 8DD6F9
     Blue (debug relatives): 0769AD
     Purple (Parallel skill relatives): 593D88
-    Pink (SASS relatives): FA6CF2
+    Pink (SASS relatives): E772C5
   -->
 </p>
