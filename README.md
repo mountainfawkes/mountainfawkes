@@ -45,16 +45,16 @@
 <h3>Technologies Implemented</h3>
 
 <p>
-  <!-- HTML5 --> <img alt="HTML5" width="93px" height="28px" src="https://img.shields.io/badge/HTML5-239120?style=for-the-badge&logo=html5&logoColor=white" />
-  <!-- CSS --> <img alt="CSS" width="93px" height="28px" src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white" />
-  <!-- SASS --> <img alt="SASS" width="93px" height="28px" src="https://img.shields.io/badge/Sass-239120?style=for-the-badge&logo=sass&logoColor=white" />
-  <!-- JavaScript --> <img alt="JavaScript" width="93px" height="28px" src="https://img.shields.io/badge/javascript-E34F26?style=for-the-badge&logo=javascript&logoColor=black" />
-  <!-- jQuery --> <img alt="jQuery" width="93px" height="28px" src="https://img.shields.io/badge/jQuery-E34F26?style=for-the-badge&logo=jquery&logoColor=white" />
+  <!-- HTML5 --> <img alt="HTML5" width="93px" height="28px" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <!-- CSS --> <img alt="CSS" width="93px" height="28px" src="https://img.shields.io/badge/CSS-FA6CF2?&style=for-the-badge&logo=css3&logoColor=white" />
+  <!-- SASS --> <img alt="SASS" width="93px" height="28px" src="https://img.shields.io/badge/Sass-FA6CF2?style=for-the-badge&logo=sass&logoColor=white" />
+  <!-- JavaScript --> <img alt="JavaScript" width="93px" height="28px" src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <!-- jQuery --> <img alt="jQuery" width="93px" height="28px" src="https://img.shields.io/badge/jQuery-F7DF1E?style=for-the-badge&logo=jquery&logoColor=white" />
   <!-- React --> <img alt="React" width="93px" height="28px" src="https://img.shields.io/badge/React-0A1831?style=for-the-badge&logo=react&logoColor=61DAFB" />
   <!-- Redux --> <img alt="Redux" width="93px" height="28px" src="https://img.shields.io/badge/Redux-0A1831?style=for-the-badge&logo=redux&logoColor=white" />
-  <!-- C# --> <img alt="C#" width="93px" height="28px" src="https://img.shields.io/badge/C%23-F7DF1E?style=for-the-badge&logo=c-sharp&logoColor=white" />
-  <!-- .NET --> <img alt=".NET" width="93px" height="28px" src="https://img.shields.io/badge/.NET-F7DF1E?style=for-the-badge&logo=dotnet&logoColor=white" />
-  <!-- MySQL --> <img alt="MySQL" width="93px" height="28px" src="https://img.shields.io/badge/MySQL-C21325?style=for-the-badge&logo=mysql&logoColor=white" />
+  <!-- C# --> <img alt="C#" width="93px" height="28px" src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" />
+  <!-- .NET --> <img alt=".NET" width="93px" height="28px" src="https://img.shields.io/badge/.NET-239120?style=for-the-badge&logo=dotnet&logoColor=white" />
+  <!-- MySQL --> <img alt="MySQL" width="93px" height="28px" src="https://img.shields.io/badge/MySQL-239120?style=for-the-badge&logo=mysql&logoColor=white" />
   <!-- Heroku <img alt="Heroku" src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white" /> -->
   <!-- npm --> <img alt="npm" width="93px" height="28px" src="https://img.shields.io/badge/npm-C21325?style=for-the-badge&logo=npm&logoColor=white" />
   <!-- Webpack --> <img alt="Webpack" width="93px" height="28px" src="https://img.shields.io/badge/webpack-C21325?style=for-the-badge&logo=webpack&logoColor=white" />
@@ -73,5 +73,16 @@
     {TEXT} = Paste your badge text
     {HEX-COLOR} = Paste your hex color whithout "#" from Simple Icon
     {LOGO-NAME} = Logo name from Simple Icon
+  -->
+  
+  <!--  Color scheme:
+    Green (C# relatives): 239120
+    Orange (HTML relatives): E34F26
+    Yellow (JavaScript relatives): F7DF1E
+    Navy blue (React relatives): 0A1831
+    Light blue (auth relatives): 8DD6F9
+    Blue (debug relatives): 0769AD
+    Purple (Parallel skill relatives): 593D88
+    Pink (SASS relatives): FA6CF2
   -->
 </p>
