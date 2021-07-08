@@ -32,10 +32,31 @@
 
 <hr>
 
-<h3>GitHub Stats</h3>
+<h3>GitHub Contributions</h3>
 
 <!-- GitHub commit and languages stats -->
   <img height="175px" src="https://github-readme-stats.vercel.app/api?username=mountainfawkes&show_icons=true&theme=nord&count_private=true" /><img height="175px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mountainfawkes&theme=nord" />
 
 <hr>
 
+<!-- Future placement for CO2 offsets data -->
+<!-- Future placement for LeetCode, HackerRank, Edabit -->
+
+<h3>Technologies Implemented</h3>
+
+<p>
+  <!-- HTML5 --> <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <!-- CSS --> <img src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white" />
+  <!-- SASS --> <img src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white" />
+  <!-- JavaScript --> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <!-- jQuery --> <img src="https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white" />
+  <!-- React --> <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <!-- Redux --> <img src="https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white" />
+  <!-- C# --> <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" />
+  <!-- .NET --> <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" />
+  <!-- MySQL --> <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" />
+  <!-- Heroku <img src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white" /> -->
+  <!-- npm --> <img src="https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white" />
+  <!-- Jest --> <img src="https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white" />
+  <!-- Postman --> <img src="	https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white" />
+</p>
