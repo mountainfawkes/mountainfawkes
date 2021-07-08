@@ -5,12 +5,13 @@
 <p>This is the next chapter:</p>
 
 <p>✶ I'm currently a student of C#/.NET and React at <a href="http://www.epicodus.com">Epicodus</a>, a 7-month coding bootcamp.</p>
-<p>✶ I’m currently learning React, Redux, Firebase, and common algorithms</p>
-<p>✶ I develop grants and grant strategy for <a href="http://projectledo.org">Project LEDO</a>, a nonprofit that facilitates LEGO robotics coding workshops to marginalized 1st- through 4th-grade students</p>
+<p>✶ I’m currently learning React, Redux, algorithms and data structures</p>
+<p>✶ I develop grants and grant strategy for <a href="http://projectledo.org">Project LEDO</a>, a nonprofit that facilitates LEGO robotics coding workshops to marginalized 1st- through 4th-grade students in the Portland area</p>
 <p>✶ Ask me about how tech can advance the climate agenda</p>
-<p>✶ Powered by cat memes, granite, cortados and <a href="https://www.tuftandneedle.com/mattress/original/">a really cozy mattress</a> (for real though)<p>
+<p>✶ Powered by cat memes, granite walls, and cortados</p>
 <p>✶ Pronouns: he/him/his</p>
-
+<p>✶ Reach out to me by email at <a href="mailto:jonathan.d.stull@gmail.com">jonathan.d.stull@gmail.com</a></p>
+  
 <hr>
 
 <h3>Connect with me</h3>
@@ -33,10 +34,8 @@
 
 <h3>GitHub Stats</h3>
 
-<!-- GitHub commit stats -->
-[![mountainfawkes on GitHub](https://github-readme-stats.vercel.app/api?username=mountainfawkes&show_icons=true&theme=nord&count_private=true)](https://github.com/mountainfawkes/github-readme-stats)
-<!-- GitHub languages stats -->
-[![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mountainfawkes&theme=nord&layout=compact)](https://github.com/mountainfawkes/github-readme-stats)
+<!-- GitHub commit and languages stats -->
+  <img height="175px" src="https://github-readme-stats.vercel.app/api?username=mountainfawkes&show_icons=true&theme=nord&count_private=true" /><img height="175px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mountainfawkes&theme=nord" />
 
 <hr>
 
