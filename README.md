@@ -18,14 +18,14 @@
 
 <!-- SOCIAL HREFs -->
 <p>
-  <!--  LinkedIn  -->
-  <a href="https://www.linkedin.com/in/jonathanstull/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" style="max-width:100%;"></a>  
-  <!--  Instagram  -->
-  <a href="https://www.instagram.com/jonathandstull/"> <img alt="Instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" style="max-width:100%;" /></a>  
-  <!--  Facebook  -->
-  <a href=""><img alt="Facebook" src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" style="max-width:100%;" /></a>  
   <!--  Gmail  -->
-  <a href="mailto:jonathan.d.stull@gmail.com"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" style="max-width:100%;" /></a>  
+  <a href="mailto:jonathan.d.stull@gmail.com"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" style="max-width:100%;" /></a>
+  <!--  LinkedIn  -->
+  <a href="https://www.linkedin.com/in/jonathanstull/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" style="max-width:100%;"></a>
+  <!--  Instagram  -->
+  <a href="https://www.instagram.com/jonathandstull/"> <img alt="Instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" style="max-width:100%;" /></a>
+  <!--  Facebook  -->
+  <a href=""><img alt="Facebook" src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" style="max-width:100%;" /></a>
   <!--  Spotify  -->
   <a href="https://open.spotify.com/user/jonathan.d.stull?si=6d51998f7dbb4b5c"><img alt="Spotify" src="https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white" style="max-width:100%;" /></a>
 </p>
