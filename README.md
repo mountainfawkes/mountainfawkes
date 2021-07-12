@@ -25,7 +25,7 @@
   <!--  Instagram  -->
   <a href="https://www.instagram.com/jonathandstull/"> <img alt="Instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"  /></a>
   <!--  Facebook  -->
-  <a href=""><img alt="Facebook" src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" /></a>
+  <a href="https://www.facebook.com/jonathan.stull.18/"><img alt="Facebook" src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" /></a>
   <!--  Spotify  -->
   <a href="https://open.spotify.com/user/jonathan.d.stull?si=6d51998f7dbb4b5c"><img alt="Spotify" src="https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white" /></a>
 </p>
