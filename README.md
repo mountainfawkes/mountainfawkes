@@ -5,7 +5,7 @@
 <p>This is the next chapter:</p>
 
 <p>✶ I'm currently a student of C#/.NET and React at <a href="http://www.epicodus.com">Epicodus</a>, a 7-month coding bootcamp.</p>
-<p>✶ I’m currently learning React, Redux, algorithms and data structures</p>
+<p>✶ I’m currently learning deployment on Azure with Azure Key Vault, algorithms and data structures</p>
 <p>✶ I develop grants and grant strategy for <a href="http://projectledo.org">Project LEDO</a>, a nonprofit that facilitates LEGO robotics coding workshops to marginalized 1st- through 4th-grade students in the Portland area</p>
 <p>✶ Ask me about how tech can advance the climate agenda</p>
 <p>✶ Powered by cat memes, granite walls, and cortados</p>
